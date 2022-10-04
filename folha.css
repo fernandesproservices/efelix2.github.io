@@ -2132,7 +2132,7 @@ h1 {
 h2 {
     margin-top: 1.25rem;
     margin-bottom: .625rem;
-    color: #e1001a;
+    color: #1e7fd1;
     font-size: 3.5em;
     line-height: 2.25rem;
     font-weight: 700;
@@ -2142,7 +2142,7 @@ h2 {
 h3 {
     margin-top: 1.25rem;
     margin-bottom: .625rem;
-    color: #e1001a;
+    color: #1e7fd1;
     font-size: 1.75em;
     line-height: 1.875rem;
     font-weight: 700;
@@ -2208,8 +2208,8 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-left: .0625rem #000;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#e1001a), to(#e1001a));
-    background-image: linear-gradient(180deg, #e1001a, #e1001a);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#1e7fd1), to(#1e7fd1));
+    background-image: linear-gradient(180deg, #1e7fd1, #1e7fd1);
     color: #fff;
     font-size: 1.625rem;
     line-height: 2rem;
@@ -2268,8 +2268,8 @@ blockquote {
 .section.color {
     padding-top: 8.75rem;
     padding-bottom: 8.75rem;
-    background-color: #e1001a;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(225, 0, 26, .77)), to(rgba(225, 0, 26, .77))), url("../../../assets/img/int_treinamento/back.jpeg");
+    background-color: #1e7fd1;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 77, 225, .77)), to(rgba(0, 77, 225, .77))), url("../../../assets/img/int_treinamento/back.jpeg");
     background-image: linear-gradient(180deg, rgba(0, 77, 225, .77), rgba(0, 77, 225, .77)), url("../../../assets/img/int_treinamento/back.jpeg");
     background-position: 0 0, 50% 50%;
     background-size: auto, cover;
@@ -2426,7 +2426,7 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    border-right: .0625rem #e1001a;
+    border-right: .0625rem #1e7fd1;
     border-radius: .375rem;
     background-color: #fff
 }
@@ -2543,7 +2543,7 @@ blockquote {
 }
 
 .nav-link.w--current {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .nav-overlay {
@@ -2556,7 +2556,7 @@ blockquote {
     height: 100%;
     margin-right: auto;
     margin-left: auto;
-    background-color: #e1001a
+    background-color: #1e7fd1
 }
 
 .navtext {
@@ -2615,7 +2615,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     background-color: transparent;
-    color: #e1001a;
+    color: #1e7fd1;
     cursor: pointer
 }
 
@@ -2646,7 +2646,7 @@ blockquote {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background-color: #e1001a;
+    background-color: #1e7fd1;
     -webkit-transition: background-color .3s;
     transition: background-color .3s;
     color: #fff;
@@ -2841,7 +2841,7 @@ blockquote {
     -ms-flex-align: start;
     align-items: flex-start;
     border-radius: .375rem 0;
-    background-color: rgba(225, 0, 26, .8)
+    background-color: rgba(0, 77, 225, .77)
 }
 
 .info-child {
@@ -3035,7 +3035,7 @@ blockquote {
 }
 
 .top-title._30px.red {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .top-title.small-version {
@@ -3046,7 +3046,7 @@ blockquote {
 }
 
 .top-title.small-version.red {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .top-title.small-version.red.inline {
@@ -3080,7 +3080,7 @@ blockquote {
 }
 
 .top-title.front.red {
-    color: #e1001a;
+    color: #1e7fd1;
     line-height: 1em
 }
 
@@ -3108,7 +3108,7 @@ blockquote {
 }
 
 .service-title.red {
-    color: #e1001a;
+    color: #1e7fd1;
     line-height: 1.5em
 }
 
@@ -3230,7 +3230,7 @@ blockquote {
 }
 
 .line-overlay.red {
-    background-color: #e1001a
+    background-color: #1e7fd1
 }
 
 .line-overlay.white-again {
@@ -3244,7 +3244,7 @@ blockquote {
 .counter {
     margin-top: .625rem;
     margin-bottom: .625rem;
-    color: #e1001a;
+    color: #1e7fd1;
     font-size: 3.75rem;
     line-height: 1em;
     font-weight: 500;
@@ -3332,8 +3332,8 @@ blockquote {
     -ms-flex-align: stretch;
     align-items: stretch;
     border-radius: 100%;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#e1001a), to(#e1001a));
-    background-image: linear-gradient(180deg, #e1001a, #e1001a);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#1e7fd1), to(#1e7fd1));
+    background-image: linear-gradient(180deg, #1e7fd1, #1e7fd1);
     opacity: 1;
     color: #fff;
     font-size: 5rem;
@@ -3407,7 +3407,7 @@ blockquote {
     bottom: auto;
     width: 100%;
     height: .0625rem;
-    background-color: #e1001a
+    background-color: #1e7fd1;
 }
 
 .copyright-margin {
@@ -3464,7 +3464,7 @@ blockquote {
 }
 
 .made-with-webflow:hover {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .field-label {
@@ -3500,7 +3500,7 @@ blockquote {
 }
 
 .text-field:focus, .text-field:hover {
-    border-bottom-color: #e1001a
+    border-bottom-color: #1e7fd1;
 }
 
 .text-field::-webkit-input-placeholder {
@@ -3524,7 +3524,7 @@ blockquote {
 }
 
 .text-field._2:hover {
-    border-bottom-color: #fc493e
+    border-bottom-color: #1e7fd1
 }
 
 .button {
@@ -3553,7 +3553,7 @@ blockquote {
     display: block;
     width: 100%;
     border-radius: .375rem;
-    background-color: #e1001a;
+    background-color: #1e7fd1;
     font-size: .75rem;
     letter-spacing: .0625rem;
     text-transform: uppercase
@@ -3566,14 +3566,14 @@ blockquote {
 .button.full.not-full {
     width: auto;
     border-radius: .1875rem;
-    background-color: rgba(225, 0, 26, .8);
+    background-color: rgba(0, 77, 225, .77);
     -webkit-transition: background-color .2s, -webkit-transform .3s;
     transition: background-color .2s, transform .3s, -webkit-transform .3s;
     font-size: .75rem
 }
 
 .button.full.not-full:hover {
-    background-color: #e1001a;
+    background-color: #1e7fd1;
     -webkit-transform: scale(.96);
     -ms-transform: scale(.96);
     transform: scale(.96)
@@ -3837,7 +3837,7 @@ blockquote {
 
 .list {
     padding-left: 1rem;
-    color: #e1001a;
+    color: #1e7fd1;
     list-style-type: square
 }
 
@@ -3880,7 +3880,7 @@ blockquote {
 }
 
 .bold-text, .bold-text-2, .bold-text-3 {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .grid {
@@ -4255,7 +4255,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: .375rem;
-    background-color: rgba(225, 0, 26, .7);
+    background-color: rgba(0, 77, 225, .77);
     -webkit-transition: opacity .2s ease-in-out;
     transition: opacity .2s ease-in-out
 }
@@ -4289,7 +4289,7 @@ blockquote {
     align-items: center;
     border: .0625rem #000;
     border-radius: .375rem;
-    background-color: rgba(225, 0, 26, .8);
+    background-color: rgba(0, 77, 225, .77);
     -webkit-transition: opacity .2s ease-in-out;
     transition: opacity .2s ease-in-out
 }
@@ -4307,7 +4307,7 @@ blockquote {
     top: 1.25rem;
     right: 1.25rem;
     bottom: auto;
-    background-color: rgba(225, 0, 26, .8)
+    background-color: rgba(0, 77, 225, .77)
 }
 
 .handle {
@@ -4898,7 +4898,7 @@ blockquote {
 }
 
 .page-link:hover {
-    color: #e42d3c
+    color: #1e7fd1
 }
 
 .page-link.current {
@@ -4906,7 +4906,7 @@ blockquote {
 }
 
 .page-link.current:hover {
-    color: #e42d3c
+    color: #1e7fd1
 }
 
 .breadcrumbs-divider {
@@ -4915,7 +4915,7 @@ blockquote {
     margin-right: .25rem;
     margin-left: .25rem;
     border-radius: 100%;
-    background-color: #e42d3c
+    background-color: #1e7fd1
 }
 
 .div-block-6 {
@@ -5077,29 +5077,29 @@ blockquote {
     margin-top: 0;
     margin-right: .5rem;
     border-style: solid;
-    border-color: #e1001a;
+    border-color: #3898ec;
     cursor: pointer
 }
 
 .checkbox-2:hover {
-    border: .0625rem solid #e1001a
+    border: .0625rem solid #3898ec
 }
 
 .checkbox-2:active {
-    border: .0625rem solid #e1001a;
+    border: .0625rem solid #3898ec;
     border-radius: .125rem
 }
 
 .checkbox-2.w--redirected-checked {
     border-width: .0625rem;
-    border-color: #e1001a;
-    background-color: #e1001a;
+    border-color: #3898ec;
+    background-color: #3898ec;
     background-image: url("https://assets.website-files.com/5ed181e8ef72ef343b80dec1/5efba811add65c6f6c5c7def_check2.svg");
     background-size: .75rem .75rem
 }
 
 .checkbox-2.w--redirected-focus {
-    border: .0625rem solid #e1001a;
+    border: .0625rem solid #3898ec;
     box-shadow: none
 }
 
@@ -5114,7 +5114,7 @@ blockquote {
     width: 100%;
     padding: 1.25rem;
     border-radius: .375rem;
-    background-color: #e1001a
+    background-color: #1e7fd1
 }
 
 .lottie-jose-2 {
@@ -5140,7 +5140,7 @@ blockquote {
 }
 
 .town-text:hover {
-    color: #e1001a
+    color: #1e7fd1
 }
 
 .slide-into-view-block._40-bottom {
@@ -5204,7 +5204,7 @@ blockquote {
 
 .text-label.red {
     margin-bottom: .5rem;
-    color: #e1001a;
+    color: #1e7fd1;
     font-size: .75rem
 }
 
@@ -5370,7 +5370,7 @@ blockquote {
     flex: 0 auto;
     border-top-right-radius: .25rem;
     border-bottom-right-radius: .25rem;
-    background-color: #e1001a;
+    background-color: #1e7fd1;
     -webkit-transition: border-color .3s, background-color .3s;
     transition: border-color .3s, background-color .3s;
     color: #fff;
@@ -5416,7 +5416,7 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     border-radius: .375rem;
-    background-color: rgba(225, 0, 26, .7);
+    background-color: rgba(0, 77, 225, .77);
     -webkit-transition: opacity .2s ease-in-out;
     transition: opacity .2s ease-in-out
 }
@@ -5604,7 +5604,7 @@ blockquote {
         -webkit-align-items: center;
         -ms-flex-align: center;
         align-items: center;
-        color: #e1001a
+        color: #1e7fd1
     }
 
     .feature-card:hover {
@@ -5753,7 +5753,7 @@ blockquote {
     }
 
     .navtext:hover {
-        color: #e1001a
+        color: #1e7fd1
     }
 
     .navtext.w--current {
